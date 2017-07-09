@@ -11,6 +11,8 @@ Usage of the program should be self explanatory. Be sure to choose the correct m
 
 Requires .NET framework version 4.5.
 
+Please report any issues or suggestions on [RaceDepartment](http://www.racedepartment.com/threads/save-extractor.133659/).
+
 # For developers
 
 Any contributions are welcome! The code is pretty short so I left it all in `Form1.cs`.
